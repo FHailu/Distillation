@@ -12,5 +12,6 @@ at the feed tray, as in whether it travels towards the top or bottom of the colu
 McCabe-Thiele’s assumptions and assumes that the entering feed acts ideally (so that we can use the Antoine equation/coefficients). Here is an example output 
 a user would see for a binary mixture of ethanol and water:
 
-<img width="519" alt="ExampleDistillationOutput" src="https://user-images.githubusercontent.com/92535248/147286375-61dc0faf-b08c-4be5-a272-7b36117ec58f.PNG">
+<img width="521" alt="ExampleDistillationOutput" src="https://user-images.githubusercontent.com/92535248/147286722-665583ab-ff7e-4581-9b04-adfd11b639ea.PNG">
+
 
